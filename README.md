@@ -17,10 +17,10 @@ A simple multi-threaded web server built using Python's socket programming. This
 
 ## How to Run
 1. Make sure you have Python 3.x installed on your system.
-2. Clone or download the repository containing the `1001875574` folder.
-3. Open a terminal or command prompt and navigate to the `1001875574` directory:
+2. Clone the repository.
+3. Open a terminal or command prompt and navigate to the `multithread-webserver` directory:
     ```bash
-    cd 1001875574
+    cd multithread-webserver
     ```
 4. Run the server script:
     ```bash
